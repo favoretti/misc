@@ -44,7 +44,7 @@ set modeline        " last lines in document sets vim mode
 set modelines=3     " number lines checked for modelines
 set shortmess=atI   " Abbreviate messages
 set nostartofline   " don't jump to first character when paging
-au BufRead,BufNewFile *py,*pyw,*.c,*.h set tabstop=8
+au BufRead,BufNewFile *py,*pyw,*.c,*.h set tabstop=4
 
 " What to use for an indent.
 " This will affect Ctrl-T and 'autoindent'.
