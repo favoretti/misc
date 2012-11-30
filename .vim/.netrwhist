@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/vlazarenko/MP/nsnitro/nsresources'
+let g:netrw_dirhist_2='/Users/vlazarenko/MP/services-cardetailsservice'
+let g:netrw_dirhist_3='/Users/vlazarenko/MP/services-cardetailsservice/.git'
+let g:netrw_dirhist_4='/Users/vlazarenko/MP/frontend'
+let g:netrw_dirhist_5='/Users/vlazarenko/.psphere'
+let g:netrw_dirhist_6='/Users/vlazarenko/MP/ecg-puppet/modules/mp/configs/mp_aurora_be'
+let g:netrw_dirhist_7='/Users/vlazarenko/MP/ecg-puppet/modules/mp/configs/mp_aurora_be/manifests'
